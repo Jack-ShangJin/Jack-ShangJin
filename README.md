@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jack-ShangJin
 - 👀 I’m interested in web
-- 🌱 I’m currently learning html+css+jp
+- 🌱 I’m currently learning html+css+js
 - 💞️ I’m looking to collaborate on web construction
 - 📫 How to reach me 841783024@qq.com
 
